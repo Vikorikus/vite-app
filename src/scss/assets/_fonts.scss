@@ -1,0 +1,22 @@
+@use "../global/variables" as *;
+
+@font-face {
+  font-family: "TT Lakes";
+  src: url("../../../public/fonts/TTLakes-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TT Lakes";
+  src: url("../fonts/TTLakes/TTLakes-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "TT Lakes";
+  src: url("../fonts/TTLakes/TTLakes-Bold.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+}
