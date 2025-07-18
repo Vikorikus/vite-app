@@ -1,6 +1,4 @@
-import "./styles.scss";
-import Button from "./components/Button/index.js";
-import iconViteSrc from "@/icons/iconVite.svg";
+import "../scss/main.scss";
 
 document.querySelector("#app").innerHTML = `
 
